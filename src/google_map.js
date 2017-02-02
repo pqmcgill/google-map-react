@@ -193,7 +193,7 @@ export default class GoogleMap extends Component {
     window.addEventListener('keydown', this._onKeyDownCapture, true);
 
     // prevent touch devices from moving the entire browser window on drag
-    window.addEventListener('touchmove', this._onTouchMove);
+		// window.addEventListener('touchmove', this._onTouchMove);
 
     const mapDom = ReactDOM.findDOMNode(this.refs.google_map_dom);
     // gmap can't prevent map drag if mousedown event already occured
