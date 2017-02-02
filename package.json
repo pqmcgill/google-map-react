@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/istarkov/google-map-react.git"
+    "url": "git+https://github.com/pqmcgill/google-map-react.git"
   },
   "keywords": [
     "react",
@@ -31,12 +31,12 @@
     "javascript",
     "react-component"
   ],
-  "author": "istarkov https://github.com/istarkov",
+  "author": "pqmcgill https://github.com/pqmcgill",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/istarkov/google-map-react/issues"
+    "url": "https://github.com/pqmcgill/google-map-react/issues"
   },
-  "homepage": "https://github.com/istarkov/google-map-react#readme",
+  "homepage": "https://github.com/pqmcgill/google-map-react#readme",
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0"
   },
